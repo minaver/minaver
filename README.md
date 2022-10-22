@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요!%20&desc=백엔드%20개발자%20박상민입니다&fontSize=40)
 
-### 백엔드 개발자 박상민입니다 👋
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minaver&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minaver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
