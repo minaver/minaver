@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=백엔드%20개발자%20박상민입니다%20&desc=안녕하세요!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요!%20&desc=백엔드%20개발자%20박상민입니다&fontSize=40)
 
 ### 백엔드 개발자 박상민입니다 👋
 
