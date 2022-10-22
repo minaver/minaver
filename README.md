@@ -20,16 +20,16 @@
   &nbsp;
   &nbsp;
   
-  <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=minaver&show_icons=true&theme=tokyonight" />
   </a>
+  
   &nbsp;
-  &nbsp;
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minaver&layout=compact" />
   </a>
- </div> 
+
   
   &nbsp;
   &nbsp;
