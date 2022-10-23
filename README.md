@@ -16,7 +16,19 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
   </div>
-
+  
+  ### 🔎 have used before
+  <div align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+    <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat&logo=MariaDB Foundation&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=Socket.io&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google Vision-4285F4?style=flat&logo=Google Lens&logoColor=white" />
+  </div>
+  
   &nbsp;
   &nbsp;
   
