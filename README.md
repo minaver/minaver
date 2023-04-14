@@ -3,8 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요!%20&desc=백엔드%20개발자%20박상민입니다&fontSize=40)
 
   ### 🙌 about me
-  주니어 백엔드 개발자 박상민입니다.   
-  '부딪히며 배우고 적용하여 살아있는 지식으로 만들자'라는 철학으로 공부중입니다.  
+  개발이 재밌는 백엔드 개발자 박상민입니다. 
 
   ### 🛠 skill
   <div align="center">
